@@ -149,6 +149,8 @@ sudo apt-get install httrack
 
 ![HTTrack Website copier](assets/image-20221115220852909.png)
 
+* In diesem Fall wissen wir durch die DNS-Abfrage, dass cloudfare verwendet wir und der Webserver hinter einem Proxy steht. Durch diesen Proxy wird der Download verhindert. 
+
 ### Whois Enumeration
 
 [**Whois**](https://g.co/kgs/YizQVp) lookups are used to identify information regarding a particular domain.
