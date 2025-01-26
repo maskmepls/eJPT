@@ -91,10 +91,10 @@
 
 > **`host`** command
 - Um zu verstehen, was der Befehl macht, kann man mehrere Wege verwenden: 
-  1. `whatis host`
-  1. `man host`
-  1.  `tldr host`
-  1. `host --help`.
+1. `whatis host`
+1. `man host`
+1.  `tldr host`
+1. `host --help`.
 - Das Host Kommando performt eine manuelle DNS-Abfrage. Unter Windows verwendet man **`nslookup`**. 
 
 ```bash
