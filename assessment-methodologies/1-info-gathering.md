@@ -119,7 +119,7 @@ host hackersploit.org
 
 ![hackersploit.org/robots.txt](assets/image-20221115212251374.png)
 
-> **`sitemap.xml`** file - [https://hackersploit.org/sitemap.xml](https://hackersploit.org/sitemap.xml)
+> **`sitemap.xml/sitemaps.xml`** file- [https://hackersploit.org/sitemap.xml](https://hackersploit.org/sitemap.xml)
 
 * Used to provide search engines with an organized way of indexing the website.
 * List of site pages, categories, author, etc
