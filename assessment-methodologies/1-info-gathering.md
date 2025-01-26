@@ -123,10 +123,9 @@ host hackersploit.org
 
 * Used to provide search engines with an organized way of indexing the website.
 * List of site pages, categories, author, etc
-
+* Unter Kategorien werden beispielsweise Kategorien dargestellt, welche möglicherweise nicht im Front-End gezeigt werden. 
 ![hackersploit.org/sitemap.xml](assets/image-20221115215549993.png)
 
-* Unter Kategorien werden beispielsweise Kategorien dargestellt, welche möglicherweise nicht im Front-End dargestellt werden. 
 
 > Broswer add-ons for **Web Technology footprinting**:
 
