@@ -126,6 +126,8 @@ host hackersploit.org
 
 ![hackersploit.org/sitemap.xml](assets/image-20221115215549993.png)
 
+* Unter Kategorien werden beispielsweise Kategorien dargestellt, welche möglicherweise nicht im Front-End dargestellt werden. 
+
 > Broswer add-ons for **Web Technology footprinting**:
 
 * [Wappalyzer](https://www.wappalyzer.com/) - find out the technology stack of the website
