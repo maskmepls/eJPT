@@ -143,7 +143,7 @@ host hackersploit.org
 * [HTTrack](https://www.httrack.com/)
 
 ```bash
-sudo apt install httrack
+sudo apt-get install httrack
 # Open from start menu "WebHTTrack Website Copier", opening up the web instance
 ```
 
