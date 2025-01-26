@@ -130,10 +130,11 @@ host hackersploit.org
 > Broswer add-ons for **Web Technology footprinting**:
 
 * [Wappalyzer](https://www.wappalyzer.com/) - find out the technology stack of the website
+* Alternativ kann auch `BuildWith` verwendet werden. 
 
 ![Wappalyzer Example](assets/image-20221115215931204.png)
 
-> [**`whatweb`**](https://github.com/urbanadventurer/WhatWeb) command
+> [**`whatweb`**](https://github.com/urbanadventurer/WhatWeb) command - eine Alternative zu den Add-ons
 
 ![whatweb hackersploit.org](assets/image-20221115220428770.png)
 
