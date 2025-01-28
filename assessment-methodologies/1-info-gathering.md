@@ -278,6 +278,8 @@ sublist3r -d hackersploit.com -o hs_sub_enum.txt
 
 ![sublist3r -d ine.com](assets/image-20221126190544117.png)
 
+* Den Domänen-Namen haben wir im Vorfeld mit Netcraft herausgefunden. 
+
 ### Google Dorks
 
 🗒️ **Google Dorking**/Hacking can be utilized to identify public information pertinent to a target.
