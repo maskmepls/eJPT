@@ -263,6 +263,7 @@ To identify the subdomains of a specific domain in a passive way, **publicly ava
 
 * this example is NOT active enumeration - is is passive (using public available resources)
 * it enumerates subdomains using search engines (Google, Yaoo, Bing ...) and other tools (Netcraft, Virustotal, DNSdumpster, ReverseDNS, ThreatCrowd).
+* Sublist3r automatisiert den Prozess, den man mit Google Dorking ansonsten manuell macht. 
 
 ![sublist3r -h](assets/image-20221126181132532.png)
 
