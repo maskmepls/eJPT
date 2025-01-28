@@ -214,6 +214,8 @@ dnsrecon -d hackersploit.org
 
 ![dnsdumpster.com example](assets/image-20221126170656955.png)
 
+Zwei links neben dem grünen Icon ist der Button "Find Hosts Sharing this DNS-server". 
+
 ![dnsdumpster.com export](assets/image-20221126171001737.png)
 
 ![zonetransfer.me Domain map - from dnsdumpster.com](assets/image-20230118233326703.png)
