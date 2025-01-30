@@ -1135,5 +1135,5 @@ nmap -Pn -F <TARGET_IP> -oX outputfile.xml
 * Ein typischer nmap-scan von ippsec kann sieht in der Regel wie folgt aus: 
 
 ```bash
-nmap -sV -sC -vv -oA <TARGET_IP> -oN outputfile.txt
+nmap -sV -sC -vv -oA -p- <TARGET_IP> -oN outputfile.txt
 ```
