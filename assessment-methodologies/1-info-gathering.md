@@ -842,6 +842,7 @@ sudo nmap -sn 192.168.31.0/24
 > [**`netdiscover`**](https://www.kali.org/tools/netdiscover/) - an active/passive ARP discovering tool
 
 * _it utilizes ARP requests_
+* `netdiscover -i eth0 -r 192.168.2.0/24`
 
 ```bash
 netdiscover -h 
